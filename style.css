@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contant{
+    font-size: 30px;
+    text-align: center;
+
+}
+h3{
+    font-size: 100px;
+}
+button{
+    
+    margin:20px 0;
+    padding:10px;
+    font-size: 30px;
+}
